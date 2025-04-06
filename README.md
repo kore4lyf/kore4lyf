@@ -1,6 +1,6 @@
 **Software Developer | Full Stack Web Developer** 
 <br><br>
-![My Skills](https://skillicons.dev/icons?i=github,githubactions,git,linux,vim,neovim,bash,md,html,css,jquery,js,ts,react,redux,nextjs,tailwind,bootstrap,materialui,sass,nodejs,express,jest,postman,figma,mysql,postgres,mongodb,graphql,firebase,vscode,c,cs,dotnet,aws&perline=12)
+![My Skills](https://skillicons.dev/icons?i=github,githubactions,git,linux,docker,vim,neovim,bash,md,html,css,jquery,js,ts,solidity,react,redux,nextjs,tailwind,bootstrap,materialui,sass,nodejs,express,jest,postman,sentry,figma,appwrite,supabase,prisma,mysql,postgres,mongodb,graphql,firebase,vscode,c,dotnet,aws&perline=12)
 <br><br>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kore4lyf&theme=react&hide_border=true&border_radius=4&card_width=684)
